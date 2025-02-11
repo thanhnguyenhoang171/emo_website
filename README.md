@@ -56,24 +56,30 @@ alt="Hình ảnh từ Google Drive" >
 ## 📦 Installation & Setup
 ### 1️⃣ Clone repository
 ```bash
- git clone https://github.com/your-repo-name.git
- cd your-repo-name
+ git clone https://github.com/thanhnguyenhoang171/emo_website.git
+ cd emo_website
 ```
 
 ### 2️⃣ Backend Setup
 ```bash
- cd backend
- npm install
- npm run start
-```
-
-### 3️⃣ Frontend Setup
-```bash
- cd frontend
+ cd be-nestjs
  npm install
  npm run dev
 ```
 
+### 3️⃣ Frontend Setup
+```bash
+ cd fe-react
+ npm install
+ npm run dev
+```
+### 3️⃣ AI model Setup
+```bash
+ cd be-nestjs
+ python -m venv env
+ env\Scripts\activate
+ pip install -r requirements.txt
+```
 ---
 
 
