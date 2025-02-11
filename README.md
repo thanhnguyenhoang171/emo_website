@@ -38,8 +38,7 @@
 
   
 <img src="https://drive.google.com/uc?export=view&id=12aDoe6CHZHda56KnTHd-X-iZ0-OtU5Xh" 
-alt="Hình ảnh từ Google Drive" 
->
+alt="Hình ảnh từ Google Drive" >
 
 ---
 
