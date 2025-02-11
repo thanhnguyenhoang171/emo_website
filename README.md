@@ -36,7 +36,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=11E3Vn41hRmnXZMT60dz0vUy1TUE3YC4s" alt="Sentiment Analysis Results">
 
-     >
+  
 <img src="https://drive.google.com/uc?export=view&id=12aDoe6CHZHda56KnTHd-X-iZ0-OtU5Xh" 
 alt="Hình ảnh từ Google Drive" 
 >
