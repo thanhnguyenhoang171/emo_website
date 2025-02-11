@@ -14,3 +14,7 @@
 <img src="https://drive.google.com/uc?export=view&id=17NC1Rcv0lZXkcWS4CUXfu5Y4TSk4JOPB" 
      alt="Hình ảnh từ Google Drive" 
      >
+<b>Với FER+ Datasets </b>
+<img src="https://drive.google.com/uc?export=view&id=1DUnjGFwBkRSPv7CNJyVu0RG4eRmR2GMF" 
+     alt="Hình ảnh từ Google Drive" 
+     >
