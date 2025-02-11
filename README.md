@@ -5,5 +5,9 @@
 <img src="https://drive.google.com/uc?export=view&id=1BPoUNED8oJBz--3nS0TW67mIppJIvYPl" 
      alt="Hình ảnh từ Google Drive" 
      width="300">
-
+<h2>Kết quả đạt được</h2>
+**Với FER2013 Dataséts**
+<img src="https://drive.google.com/file/d/1hMLMenSc__l1lsZrru5BVMlo-HSg8Uky/view?usp=sharing" 
+     alt="Hình ảnh từ Google Drive" 
+     >
 
