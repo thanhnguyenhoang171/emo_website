@@ -7,7 +7,7 @@
      width="300">
 <h2>Kết quả đạt được</h2>
 **Với FER2013 Dataséts**
-<img src="https://drive.google.com/file/d/1hMLMenSc__l1lsZrru5BVMlo-HSg8Uky/view?usp=sharing" 
+<img src="hhttps://drive.google.com/uc?export=view&id=1hMLMenSc__l1lsZrru5BVMlo-HSg8Uky" 
      alt="Hình ảnh từ Google Drive" 
      >
 
