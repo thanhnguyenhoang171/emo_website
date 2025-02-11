@@ -2,4 +2,4 @@
 <h1>Facial Emotion Detection</h1>
 <p>Xây dựng mô hình CNN gồm 7 Layer, Lớp Full Connected (Dense) và Lớp Output </p>
 </br>
-![image](https://github.com/user-attachments/assets/c215c834-6b80-4ba6-a9e0-82114bc39880)
+<img src="https://drive.google.com/drive/u/2/folders/15j8s5rJ8FeJRSwTWRP41wDhJhqsOHvu9?hl=vi">
