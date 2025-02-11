@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/98de3d33-222b-4326-8ece-1f87eea0187a)# Website coffee shop ứng dụng mô hình AI nhận dạng cảm xúc trên ảnh và trên văn bản
+# Website coffee shop ứng dụng mô hình AI nhận dạng cảm xúc trên ảnh và trên văn bản
 <h1>Facial Emotion Detection</h1>
 <p>Xây dựng mô hình CNN gồm 7 Layer, Lớp Full Connected (Dense) và Lớp Output </p>
 </br>
