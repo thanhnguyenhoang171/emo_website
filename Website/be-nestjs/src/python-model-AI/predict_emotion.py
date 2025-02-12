@@ -9,11 +9,11 @@ base_path = os.path.dirname(os.path.abspath(__file__))
 
 json_path = os.path.join(
     base_path,
-    "trainned/FER2013_trainned/adam_flatten/fer2013_Adam_Flatten.json",
+    "trainned/Emodata_Trained/Adam_Flatten/emodata_Adam_Flatten.json",
 )
 weights_path = os.path.join(
     base_path,
-    "trainned/FER2013_trainned/adam_flatten/best_model_fer2013_Adam_Flatten.keras",
+    "trainned/Emodata_Trained/Adam_Flatten/best_model_emodata_Adam_Flatten.keras",
 )
 
 # Load mô hình
@@ -23,16 +23,25 @@ model = model_from_json(loaded_model_json)
 model.load_weights(weights_path)
 
 # Nhãn của các lớp cảm xúc
+# label_dict = {
+#     0: "angry",
+#     1: "disgust",
+#     2: "fear",
+#     3: "happy",
+#     4: "sad",
+#     5: "surprise",
+#     6: "neutral",
+# }
 label_dict = {
-    0: "angry",
-    1: "disgust",
-    2: "fear",
-    3: "happy",
+    0: "fear",
+    1: "surprise",
+    2: "angry",
+    3: "neutral",
     4: "sad",
-    5: "surprise",
-    6: "neutral",
+    5: "disgust",
+    6: "contempt",
+    7: "happy",
 }
-
 # Thư mục lưu ảnh dự đoán
 output_dir = "public/images/detectedEmotion"
 os.makedirs(output_dir, exist_ok=True)
@@ -88,7 +97,7 @@ def predict_emotion(image_path):
                     }
                 )
 
-        # **Chỉ lưu ảnh nếu có ít nhất một khuôn mặt hợp lệ**
+        # hỉ lưu ảnh nếu có ít nhất một khuôn mặt hợp lệ
         if results:
             output_path = os.path.join(output_dir, os.path.basename(image_path))
             cv2.imwrite(output_path, image_bgr)
@@ -101,8 +110,3 @@ def predict_emotion(image_path):
 
     except Exception as e:
         return {"error": str(e)}
-
-
-# predict_emotion(
-#     "public\\images\\rating\\z6149867258087_7415800296a4842746d76e0332fd03fe-1738834289662.jpg"
-# )

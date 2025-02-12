@@ -4,7 +4,7 @@ import face_recognition
 from tensorflow.keras.models import model_from_json
 
 # Load model structure
-with open("FERPlus_Trained\\Adam_Flatten\\ferplus_Adam_Flatten.json", "r") as json_file:
+with open("FER2013_Trained\\Adam_Flatten\\fer2013_Adam_Flatten.json", "r") as json_file:
     loaded_model_json = json_file.read()
 
 # Load the model
@@ -12,20 +12,20 @@ model = model_from_json(loaded_model_json)
 
 # Load model weights
 model.load_weights(
-    "FERPlus_Trained\\Adam_Flatten\\best_model_ferplus_Adam_Flatten.keras"
+    "FER2013_Trained\\Adam_Flatten\\best_model_ferp2013_Adam_Flatten.keras"
 )
 
 # Dictionary mapping class indices to emotion labels
 label_dict = {
-    0: "fear",
-    1: "surprise",
-    2: "angry",
-    3: "neutral",
+    0: "angry",
+    1: "disgust",
+    2: "fear",
+    3: "happy",
     4: "sad",
-    5: "disgust",
-    6: "contempt",
-    7: "happy",
+    5: "surprise",
+    6: "neutral",
 }
+
 
 def predict_emotion(image_path):
     """
@@ -119,36 +119,25 @@ def predict_emotion(image_path):
 image_path = "chup-anh-gia-dinh-3-nguoi-1.jpg"  # Đường dẫn tới ảnh đầu vào
 predict_emotion(image_path)
 
-# for FER+
-    # label_dict = {
-    #     0: "fear",
-    #     1: "surprise",
-    #     2: "angry",
-    #     3: "neutral",
-    #     4: "sad",
-    #     5: "disgust",
-    #     6: "contempt",
-    #     7: "happy",
-    # }
+# for Emodata
+# label_dict = {
+#     0: "fear",
+#     1: "surprise",
+#     2: "angry",
+#     3: "neutral",
+#     4: "sad",
+#     5: "disgust",
+#     6: "contempt",
+#     7: "happy",
+# }
 
-#For FER2013
-    # label_dict = {
-    #     0: "angry",
-    #     1: "disgust",
-    #     2: "fear",
-    #     3: "happy",
-    #     4: "sad",
-    #     5: "surprise",
-    #     6: "neutral",
-    # }
-
-#For Emodata
-    # label_dict = {
-    #     0: "angry",
-    #     1: "disgust",
-    #     2: "fear",
-    #     3: "happy",
-    #     4: "sad",
-    #     5: "surprise",
-    #     6: "neutral",
-    # }
+# For FER2013
+# label_dict = {
+#     0: "angry",
+#     1: "disgust",
+#     2: "fear",
+#     3: "happy",
+#     4: "sad",
+#     5: "surprise",
+#     6: "neutral",
+# }
