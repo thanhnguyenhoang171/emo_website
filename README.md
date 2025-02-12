@@ -16,13 +16,9 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1hMLMenSc__l1lsZrru5BVMlo-HSg8Uky" alt="FER2013 Dataset Results">
 
-<img src="https://drive.google.com/uc?export=view&id=17NC1Rcv0lZXkcWS4CUXfu5Y4TSk4JOPB" 
+<img src="https://drive.google.com/uc?export=view&id=1qn5gLSICf-KsLzVsE7hJlTD6mhSTu6id" 
      alt="Hình ảnh từ Google Drive" 
      >
-<img src="https://drive.google.com/uc?export=view&id=1DUnjGFwBkRSPv7CNJyVu0RG4eRmR2GMF" 
-     alt="Hình ảnh từ Google Drive" 
-     >
-
 ### 📝 Sentiment Analysis - phoBERT
 - **Mô hình:** phoBERT
 - **Dataset:** fbr-vn (VNFoodDrinkReviews.xlsx)
