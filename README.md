@@ -80,8 +80,14 @@ alt="Hình ảnh từ Google Drive" >
  env\Scripts\activate
  pip install -r requirements.txt
 ```
+
 ---
 
+## 🤖 Model Trained
+
+- emodata datasets link: https://drive.google.com/file/d/1-AOZLt8bxiHLWMZGQaa3sbNJSO5Qmd9J/view?usp=drive_link
+- facial emotion detection link: https://drive.google.com/file/d/1Tkwmny99U8prUmivCDzxoV8eRSPsHbLx/view?usp=drive_link
+- sentiment analysis link: https://drive.google.com/file/d/1kFX4cZIZxyjSuILNxZgO3B_bX6zNNtw8/view?usp=sharing
 
 
 ---
