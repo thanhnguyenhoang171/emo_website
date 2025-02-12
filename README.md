@@ -8,8 +8,8 @@
 ### 🎭 Facial Emotion Detection
 - **Mô hình:** CNN (7 Layers, Fully Connected Layer, Output Layer)
 - **Datasets sử dụng:**
-  - FER2013
-  - Emodata
+  - FER2013 (35,887 dữ liệu, kích thước 48x48, grayscale, 7 loại cảm xúc (0:Angry, 1:Disgust, 2:Fear, 3:Happy, 4:Sad, 5:Surprise, 6:Neutral)
+  - Emodata (78,293 dữ liệu, kích thước 48x48, grayscale, 8 loại cảm xúc (0:Fear, 1:Surprise, 2:Angry, 3:Neutral, 4:Sad, 5:Disgust, 6:Contempt, 7:Happy)
 - **Kết quả:**
 
 <img src="https://drive.google.com/uc?export=view&id=1BPoUNED8oJBz--3nS0TW67mIppJIvYPl" width="400" alt="CNN Model Architecture">
