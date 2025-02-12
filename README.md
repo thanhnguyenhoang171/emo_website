@@ -10,7 +10,6 @@
 - **Datasets sử dụng:**
   - FER2013
   - Emodata
-  - FER+
 - **Kết quả:**
 
 <img src="https://drive.google.com/uc?export=view&id=1BPoUNED8oJBz--3nS0TW67mIppJIvYPl" width="400" alt="CNN Model Architecture">
@@ -85,8 +84,8 @@ alt="Hình ảnh từ Google Drive" >
 
 ## 🤖 Model Trained
 
-- emodata datasets link: https://drive.google.com/file/d/1-AOZLt8bxiHLWMZGQaa3sbNJSO5Qmd9J/view?usp=drive_link
-- facial emotion detection link: https://drive.google.com/file/d/1Tkwmny99U8prUmivCDzxoV8eRSPsHbLx/view?usp=drive_link
+- emodata datasets link: https://drive.google.com/file/d/1wgGT0OoN6WymQqvM29FQl2BjLj4K1T7n/view?usp=drive_link
+- facial emotion detection link: https://drive.google.com/file/d/1S1hJmPCfZY6AKawTbiHiMKpmrVAOAkVG/view?usp=sharing
 - sentiment analysis link: https://drive.google.com/file/d/1kFX4cZIZxyjSuILNxZgO3B_bX6zNNtw8/view?usp=sharing
 
 
