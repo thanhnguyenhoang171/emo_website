@@ -12,7 +12,7 @@
   - Emodata (78,293 dữ liệu, kích thước 48x48, grayscale, 8 loại cảm xúc (0:Fear, 1:Surprise, 2:Angry, 3:Neutral, 4:Sad, 5:Disgust, 6:Contempt, 7:Happy)
 - **Kết quả:**
 
-<img src="https://drive.google.com/uc?export=view&id=1BPoUNED8oJBz--3nS0TW67mIppJIvYPl" width="400" alt="CNN Model Architecture">
+<img src="https://drive.google.com/uc?export=view&id=1AvRNn9ZKAW7OtTtiIArhisOe4dSH__vd" width="400" alt="CNN Model Architecture">
 
 <img src="https://drive.google.com/uc?export=view&id=1hMLMenSc__l1lsZrru5BVMlo-HSg8Uky" alt="FER2013 Dataset Results">
 
