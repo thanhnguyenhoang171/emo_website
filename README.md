@@ -23,10 +23,8 @@
 - **Mô hình:** phoBERT
 - **Dataset:** fbr-vn (VNFoodDrinkReviews.xlsx)
 - **Dữ liệu:** 5501 dòng với 3 nhãn cảm xúc: Positive, Negative, Neutral
-- 
-<img src="https://drive.google.com/uc?export=view&id=1ngHW0LFlV78fB6RkbGdd0FYbRebdaDW3" 
-     alt="Hình ảnh từ Google Drive" 
-     >
+<img src="https://drive.google.com/uc?export=view&id=1NUoREIbIUSvdIEhKZjDxqm83Z1IfACZ5" alt="Hình ảnh từ Google Drive" >
+
 - **Kết quả:**
 
 <img src="https://drive.google.com/uc?export=view&id=1q_-mZeepymgTXLXnLaYLLp4tA-uwaZcn" alt="Sentiment Analysis Results">
