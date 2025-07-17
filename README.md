@@ -12,11 +12,11 @@
   - Emodata (78,293 dữ liệu, kích thước 48x48, grayscale, 8 loại cảm xúc (0:Fear, 1:Surprise, 2:Angry, 3:Neutral, 4:Sad, 5:Disgust, 6:Contempt, 7:Happy)
 - **Kết quả:**
 
-<img src="https://drive.google.com/uc?export=view&id=1AvRNn9ZKAW7OtTtiIArhisOe4dSH__vd" width="400" alt="CNN Model Architecture">
+<img src="https://drive.google.com/uc?export=view&id=1bWwRj0VUUSsA0VHsKKmfk8P3W2FXT1p2" width="400" alt="CNN Model Architecture">
 
-<img src="https://drive.google.com/uc?export=view&id=1hMLMenSc__l1lsZrru5BVMlo-HSg8Uky" alt="FER2013 Dataset Results">
+<img src="https://drive.google.com/uc?export=view&id=14Im10dS9foLZ48_bFBnzfb7T6GK_N8On" alt="FER2013 Dataset Results">
 
-<img src="https://drive.google.com/uc?export=view&id=1qn5gLSICf-KsLzVsE7hJlTD6mhSTu6id" 
+<img src="https://drive.google.com/uc?export=view&id=1nGZlc5jNEfYFSbGW2UXEgKyyyl78Cs2F" 
      alt="Hình ảnh từ Google Drive" 
      >
 ### 📝 Sentiment Analysis - phoBERT
@@ -29,11 +29,10 @@
      >
 - **Kết quả:**
 
-<img src="https://drive.google.com/uc?export=view&id=11E3Vn41hRmnXZMT60dz0vUy1TUE3YC4s" alt="Sentiment Analysis Results">
+<img src="https://drive.google.com/uc?export=view&id=1q_-mZeepymgTXLXnLaYLLp4tA-uwaZcn" alt="Sentiment Analysis Results">
 
   
-<img src="https://drive.google.com/uc?export=view&id=12aDoe6CHZHda56KnTHd-X-iZ0-OtU5Xh" 
-alt="Hình ảnh từ Google Drive" >
+
 
 ---
 
