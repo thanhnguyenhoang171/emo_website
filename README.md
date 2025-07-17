@@ -12,7 +12,7 @@
   - Emodata (78,293 dữ liệu, kích thước 48x48, grayscale, 8 loại cảm xúc (0:Fear, 1:Surprise, 2:Angry, 3:Neutral, 4:Sad, 5:Disgust, 6:Contempt, 7:Happy)
 - **Kết quả:**
 
-<img src="https://drive.google.com/uc?export=view&id=1bWwRj0VUUSsA0VHsKKmfk8P3W2FXT1p2" width="400" alt="CNN Model Architecture">
+<img src="https://drive.google.com/uc?export=view&id=1bWwRj0VUUSsA0VHsKKmfk8P3W2FXT1p2" alt="CNN Model Architecture">
 
 <img src="https://drive.google.com/uc?export=view&id=14Im10dS9foLZ48_bFBnzfb7T6GK_N8On" alt="FER2013 Dataset Results">
 
@@ -30,10 +30,6 @@
 - **Kết quả:**
 
 <img src="https://drive.google.com/uc?export=view&id=1q_-mZeepymgTXLXnLaYLLp4tA-uwaZcn" alt="Sentiment Analysis Results">
-
-  
-
-
 ---
 
 ## 🛠 Xây dựng Website
@@ -43,7 +39,11 @@
 - **AI Model Execution:** Python-Shell (chạy AI model trong backend)
 
 ## 🎯 Demo & Screenshots
-<img src="https://drive.google.com/uc?export=view&id=1OLvAMrzTSQJMuvfs6lrindL3zpW6LJOV" alt="Web UI">
+<figure style="text-align: center;">
+  <img src="https://drive.google.com/uc?export=view&id=1NjvuhWdktflC_iWiu-a4fV25j229kS27" alt="Web UI" style="max-width: 100%; height: auto;">
+  <figcaption style="margin-top: 8px; font-size: 0.9rem; color: #555;">Figure 1. Product evaluation function</figcaption>
+</figure>
+
 
 ---
 
