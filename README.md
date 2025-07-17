@@ -44,6 +44,21 @@
   <figcaption style="margin-top: 8px; font-size: 0.9rem; color: #555;">Figure 1. Product evaluation function</figcaption>
 </figure>
 
+<figure style="text-align: center;">
+  <img src="https://drive.google.com/uc?export=view&id=1uBtR2-QhyOuMX2rkWQEKYhQgmlDdpnPy" alt="Web UI" style="max-width: 100%; height: auto;">
+  <figcaption style="margin-top: 8px; font-size: 0.9rem; color: #555;">Figure 2. Customer evaluation function of products and services</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="https://drive.google.com/uc?export=view&id=1GUaM0Be970h24RdgBLFOotypKuCVhvKO" alt="Web UI" style="max-width: 100%; height: auto;">
+  <figcaption style="margin-top: 8px; font-size: 0.9rem; color: #555;">Figure 3. Results of analysis and identification of customer behavior</figcaption>
+</figure>
+
+
+<figure style="text-align: center;">
+  <img src="https://drive.google.com/uc?export=view&id=1HICqA0E8wlUVQbnL-fVq_fdtVk_WuDD_" alt="Web UI" style="max-width: 100%; height: auto;">
+  <figcaption style="margin-top: 8px; font-size: 0.9rem; color: #555;">Figure 4. User/customer review management page</figcaption>
+</figure>
 
 ---
 
